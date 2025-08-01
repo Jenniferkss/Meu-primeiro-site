@@ -1,0 +1,14 @@
+/* RESET DO CSS */
+*{
+    margin: 0px;
+    padding: 0;
+}
+
+body{font-family: Arial, Helvetica, sans-serif;}
+
+h1,p{text-align: center;}
+header{
+    background-color: rgb(75, 0, 15);
+    color: white;
+    padding: 74px;
+}
